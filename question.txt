@@ -5,3 +5,10 @@ a) Huffman coding.
 b) minimum sum of products of two arrays.
 c) Kruskalls minimum spanning tree.
 d) Prims minimum spanning tree.
+
+2. create a left skewed binary tree with a minimum height 4. create a height balanced tree from the already
+created binary tree search any two data in this two trees and find the number of comparisons in these searches.
+
+3. implement the non recursive solution for inorder, preorder and postorder traversals in tree.
+
+4. implement the travelling salesman problem using branch and bound method.
