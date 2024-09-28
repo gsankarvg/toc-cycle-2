@@ -1,0 +1,7 @@
+1. choose an appropriate data (or input) and implement the following problems using greedy algorithm.
+The implementation should be general which can work with any set of input.
+
+a) Huffman coding.
+b) minimum sum of products of two arrays.
+c) Kruskalls minimum spanning tree.
+d) Prims minimum spanning tree.
